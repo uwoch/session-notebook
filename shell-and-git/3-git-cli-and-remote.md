@@ -1,5 +1,5 @@
 - versteckte Ordner anzeigen lassen = ls -a
-- Git Ordner anlegen = git init (verstecke Repo anlegen)touch 
+- Git Ordner anlegen = git init (verstecke Repo anlegen) 
 - touch .gitignore, Dateien, die nicht versioniert werden sollen, z.B. .ds_store dort 
 reinschreiben, mit nano
 - git status = um zu sehen ob Dateien gestaged, committed sind
