@@ -1,0 +1,20 @@
+- Terminal is a text input and output environment, that sends commands to the shell 
+and displays its output (Programm darin = Shell = command interpreter) = Navigieren ohne grafische Oberfläche 
+- CLI (Command Line Interfaces)
+- Command + Leertaste = Suche, dann iTerm
+- pwd = in welchem Ordner bin ich?
+- ls = alle Ordner sehen
+- cd „Ordner“= in den Ordner rein
+- cd .. = aus dem Ordner raus
+- mkdir „neuer Ordner“ = neuer Ordner
+- touch „neue Datei“ = neue Datei
+- nano „Datei“ = in einen Editor
+- zsh = Z Shell
+- curl = vor URL 
+- cat „Datei“ = in eine Datei rein
+- Pfeiltaste nach oben = vorherigen Befehl nochmal ausführen
+- cd und Enter = heraus aus allen Ordnern und an den Anfang
+- Datei löschen = rm name
+- Ordner bewegen = mv name wohin
+- tree = File Struktur anzeigen
+- Ordner eine ebene nach oben „mv Ordner ..“
