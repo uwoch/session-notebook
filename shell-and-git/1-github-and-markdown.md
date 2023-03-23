@@ -1,6 +1,4 @@
-- Verlinkungen zum Handout und Bild ist Muss im Protokoll
-
-## Versionierungssysteme
+### Versionierungssysteme
 - Versionierungssystem SVN oder GIT
 - GIT zeigt von einem Speicherpunkt zum vorherigen Speicherpunkt, sodass man die 
 Änderungen nachvollziehen kann
@@ -17,3 +15,4 @@ Rechnern darauf zu zu greifen
 - Wir benutzen es, um das Readme schön zu strukturieren
 - https://www.markdownguide.org/cheat-sheet/
 
+- Verlinkungen zum Handout und Bild ist Muss im Protokoll
