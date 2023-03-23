@@ -1,6 +1,6 @@
 - Verlinkungen zum Handout und Bild ist Muss im Protokoll
 
-# Versionierungssysteme
+## Versionierungssysteme
 - Versionierungssystem SVN oder GIT
 - GIT zeigt von einem Speicherpunkt zum vorherigen Speicherpunkt, sodass man die 
 Änderungen nachvollziehen kann
