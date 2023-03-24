@@ -1,0 +1,14 @@
+- branch = Ast
+- main branch beim ersten commit
+- zusätzlicher feature branch für zusätzliche Entwicklungen = branching
+- am Ende merge von feature und main
+- nach dem merge kann man die weiteren commits des feature branchs löschen
+- PR = pull request
+- git log --oneline
+- git switch -c feature/markdown = erstellt neuen branch feature/markdown (Feature sollte immer davor stehen)
+- bei neuer Repo immer auf SSH umstellen
+- git branch = sehen, welche branches man hat
+- man will auf dem main eigentlich nicht committen, alles wird über einzelne branches programmiert und dann erst gemergt
+- git branch -M umbenennen
+- Apple command +/- Sachen größer/kleiner machen
+
