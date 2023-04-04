@@ -14,3 +14,4 @@
 - bei neuer Repo immer auf SSH umstellen
 - rm -r Ordner = Ordner löschen
 - q um aus git branch wieder raus zu kommen
+- Branch löschen = git branch -d feature/quizapp
